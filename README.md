@@ -5,7 +5,7 @@ Each folder contains the files of each iteration.
 
 Within each iteration folder, each page of the website own a folder named by page. 
 
-Under each page folder, the html, css and js files are classfied by folder.
+Under each page folder, the html, css, js files and images are classfied by folder.
 
 
 
