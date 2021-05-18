@@ -3,9 +3,9 @@ These are the exported files including html, css and js from wordpress website N
 
 Each folder contains the files of each iteration. 
 
-Within each iteration folder, each page of the website has a folder named by page. 
+Within each iteration folder, each page of the website own a folder named by page. 
 
-Under eache page folder, the html, css and js files are classfied by folder.
+Under each page folder, the html, css and js files are classfied by folder.
 
 
 
