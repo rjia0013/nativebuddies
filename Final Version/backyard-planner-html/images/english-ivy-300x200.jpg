@@ -78,7 +78,7 @@ unicode-range: U+F004-F005,U+F007,U+F017,U+F022,U+F024,U+F02E,U+F03E,U+F044,U+F0
 			/* <![CDATA[ */
 			var rcewpp = {
 				"ajax_url":"https://nativebuddies.tk/wp-admin/admin-ajax.php",
-				"nonce": "41e55e1f01",
+				"nonce": "fb70a2810f",
 				"home_url": "https://nativebuddies.tk"
 			};
 			/* ]]\> */
@@ -88,7 +88,6 @@ unicode-range: U+F004-F005,U+F007,U+F017,U+F022,U+F024,U+F02E,U+F03E,U+F044,U+F0
 <script src='https://nativebuddies.tk/wp-content/plugins/sticky-menu-or-anything-on-scroll/assets/js/jq-sticky-anything.min.js?ver=2.1.1' id='stickyAnythingLib-js'></script>
 <link rel="https://api.w.org/" href="https://nativebuddies.tk/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://nativebuddies.tk/xmlrpc.php?rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://nativebuddies.tk/wp-includes/wlwmanifest.xml" /> 
-<meta name="generator" content="WordPress 5.7.2" />
             <style>
             #wpexperts_pdf_generate_file{
                 overflow: hidden;
@@ -522,7 +521,7 @@ isChecked=true;
 });
 
 if( isChecked==false) {
-    jQuery(".Error").html("Plese select one");
+    jQuery(".Error").html("Please select one");
     next_step = false;
     }
     else {
@@ -570,7 +569,7 @@ jQuery('.loadmsg').css('visibility', 'visible');
 function SaveAsPdf(post_id) {
     var api_endpoint = "https://selectpdf.com/api2/convert/";
     //var api_key = "91ce2301-41db-4159-82cf-930f595afa0e";
-    var api_key = "d6efeb4d-76eb-43ef-ae7d-bbac49fc9b60";
+    var api_key = "e512c3ee-49ef-4c9c-ae29-d82187b755b4";
  
     var url = 'https://nativebuddies.tk/?p='+post_id;//window.location.href; // current page
  
@@ -630,7 +629,7 @@ function SaveAsPdf(post_id) {
                     var element = document.getElementsByClassName('wpexperts-page')[0];
                     var opt = {
                         margin:       1,
-                        filename:     '-what-kind-of-commonly-native-birds-do-you-prefer-in-your-backyard-179' + '.pdf',
+                        filename:     '-what-kind-of-commonly-native-birds-do-you-prefer-in-your-backyard-267' + '.pdf',
                         image:        { type: 'jpeg', quality: 0.98 },
                         html2canvas:  { scale: 2 },
                         jsPDF:        { unit: 'pt', format: 'a3', orientation: 'portrait' }
